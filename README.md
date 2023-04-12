@@ -109,7 +109,7 @@ This guide contains full instructions on how to install Rock Band Blitz Deluxe f
 * **Extract and copy your vanilla copy of Rock Band Blitz** to your USB drive.
   * In case anything goes wrong, we recommend that you **rename `default.xex` to `default_vanilla.xex`**.
 
-* Download [**Rock Band Blitz Deluxe for Xbox 360**](#xbox-360). Xenia UWP currently does not have guitar support so you need to download one of the `Series X/S Xenia` versions.
+* Download [**Rock Band Blitz Deluxe for Xbox 360**](#xbox-360).
   * **Copy the contents of it and paste them on top of your vanilla copy of Rock Band Blitz**. Click `Yes` to overwrite the files.
 
 ***Rock Band Blitz Deluxe is now installed!*** We highly recommend you check out [**Optional Upgrades**](#optional-upgrades) for songs and other cool stuff you can add to your game.
