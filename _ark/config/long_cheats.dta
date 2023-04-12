@@ -1,0 +1,8 @@
+#define OVERSHELL_DISALLOWED_SCREENS
+({'||' 
+   {== {ui current_screen} game_screen}})
+;((kPad_Select kPad_Select)
+;   {unless OVERSHELL_DISALLOWED_SCREENS
+;      {do
+;         {set $modifier_exit {ui current_screen}}
+;         {ui push_screen av_options_pause_screen}}})
