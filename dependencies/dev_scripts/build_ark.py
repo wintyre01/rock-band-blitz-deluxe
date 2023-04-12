@@ -3,6 +3,7 @@ from pathlib import Path
 from subprocess import CalledProcessError
 from sys import platform
 import subprocess
+import os
 from check_git_updated import check_git_updated
 
 def rm_tree(pth):
@@ -76,7 +77,8 @@ def build_patch_ark(xbox: bool):
         g.rename(root_dir.joinpath(final_path))
 
     # remove temp directory
-    rm_tree(root_dir.joinpath("_tmp"))
+    if os.path.exists(root_dir.joinpath("_tmp")):
+        rm_tree(root_dir.joinpath("_tmp"))
 
     if not failed:
         print("Successfully built Rock Band Blitz Deluxe ARK.")
