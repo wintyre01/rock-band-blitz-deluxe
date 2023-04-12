@@ -55,12 +55,12 @@ This guide contains full instructions on how to install Rock Band Blitz Deluxe f
 * **Install your North American copy of Rock Band Blitz** through the emulator. The [**official RPCS3 site covers this nicely**](https://rpcs3.net/quickstart).
   * Remember, **you need to be running** ***NPUB30749***. RPCS3 will tell you this in the game selection GUI under the `Serial` column.
 
-* Download [**Rock Band Blitz Deluxe for PS3**](#playstation-3). 
+* Download [**Rock Band Blitz Deluxe for PS3**]. 
   * Extract the zip and **drag and drop the `.pkg` file on top of the main RPCS3 window** to install it. Select `Yes` to confirm.
 
 ***Rock Band Blitz Deluxe is now installed!*** We highly recommend you check out [**Optional Upgrades**](#optional-upgrades) for songs and other cool stuff you can add to your game.
 
-**To update Rock Band Blitz Deluxe**, [**re-download it**](#playstation-3) and repeat the above steps. You can click the `Watch` button (All Activity) to be notified about any updates that occur.
+**To update Rock Band Blitz Deluxe**, [**re-download it**] and repeat the above steps. You can click the `Watch` button (All Activity) to be notified about any updates that occur.
 
 ***Sidenote:*** *we recommend* ***enabling `Write Color Buffers`*** *for Rock Band Blitz to prevent any character model issues.*
 
@@ -74,15 +74,13 @@ This guide contains full instructions on how to install Rock Band Blitz Deluxe f
 
 **NOTE: Rock Band Blitz Deluxe only works with** ***North American (`NPUB30749`)*** **copies of the game on PS3.**
 
-* Download [**Rock Band Blitz Deluxe for PS3**](#playstation-3). 
+* Download [**Rock Band Blitz Deluxe for PS3**]. 
   * Extract the zip and copy the `.pkg` file to the root of a FAT32 formatted USB drive.
   * Navigate to `Package Manager` and install it like any other package.
 
 ***Rock Band Blitz Deluxe is now installed!*** We highly recommend you check out [**Optional Upgrades**](#optional-upgrades) for songs and other cool stuff you can add to your game.
 
-**To update Rock Band Blitz Deluxe**, [**re-download it**](#playstation-3) and repeat the above steps. You can click the `Watch` button (All Activity) to be notified about any updates that occur.
-
-***Sidenote:*** *if your Guitar Hero or Rock Revolution drum kit shows up as the wrong instrument, download* [***this build***](https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/main/RB3DX-PS3-stock-instrument-mapping.zip) *instead.*
+**To update Rock Band Blitz Deluxe**, [**re-download it**] and repeat the above steps. You can click the `Watch` button (All Activity) to be notified about any updates that occur.
 
 ## Installing on Xbox 360
 
@@ -93,7 +91,7 @@ This guide contains full instructions on how to install Rock Band Blitz Deluxe f
 
 * **Disable updates** for Rock Band Blitz in Aurora. Rock Band Blitz Deluxe rolls `TU5` into its base installation.
 
-* Download [**Rock Band Blitz Deluxe for Xbox 360**](#xbox-360). 
+* Download [**Rock Band Blitz Deluxe for Xbox 360**]. 
   * **Copy the contents of it to where your copy of Rock Band Blitz is installed** (we recommend using FTP to do so). Select `Yes` to overwrite the files.
 
 * We also recommend **clearing your song cache**, as well as your **system cache**.
@@ -102,7 +100,7 @@ This guide contains full instructions on how to install Rock Band Blitz Deluxe f
 
 ***Rock Band Blitz Deluxe is now installed!*** We highly recommend you check out [**Optional Upgrades**](#optional-upgrades) for songs and other cool stuff you can add to your game.
 
-**To update Rock Band Blitz Deluxe**, [**re-download it**](#xbox-360) and repeat the above steps. You can click the `Watch` button (All Activity) to be notified about any updates that occur.
+**To update Rock Band Blitz Deluxe**, [**re-download it**] and repeat the above steps. You can click the `Watch` button (All Activity) to be notified about any updates that occur.
 
 ## Installing on Xbox Series X/S ([Xenia UWP](https://github.com/SirMangler/xenia/releases))
 
