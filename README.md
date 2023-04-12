@@ -1,6 +1,6 @@
 # Rock Band Blitz Deluxe
 
-![Header Image](dependencies/images/header.gif)
+![Header Image](dependencies/images/header.png)
 
 # Introduction
 
