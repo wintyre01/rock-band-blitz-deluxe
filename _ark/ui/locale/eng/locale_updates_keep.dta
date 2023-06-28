@@ -1,2 +1,9 @@
 (splash_press_start
    " ")
+(the20s
+   "'20s Hits")
+(the2020s
+   "'20s Songs")
+#include locale_sources.dta
+#include locale_sources_user.dta
+#include locale_extras.dta
