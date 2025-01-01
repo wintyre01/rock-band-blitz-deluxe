@@ -1,7 +1,4 @@
-# Rock Band Blitz Deluxe
-
-![Header Image](dependencies/images/header.png)
-
+# Rock Band Blitz Plus
 # Introduction
 
 ### Rock Band Blitz Deluxe is a Quality-of-Life Improvement Mod by [MiloHax](https://github.com/hmxmilohax)
