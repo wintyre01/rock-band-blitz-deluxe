@@ -1,3 +1,5 @@
+Original project by MiloHax. These are my personal modifications to the game.
+
 # Rock Band Blitz Deluxe
 # Introduction
 
