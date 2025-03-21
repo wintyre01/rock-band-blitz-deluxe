@@ -468,7 +468,7 @@
 	(real_guitar_tuning (-2 0 0 0 0 0)) (real_bass_tuning (-2 0 0 0)))
 (walk  (rank (drum 311) (guitar 395) (bass 425) (vocals 242) (keys 0) (real_guitar 340) (real_bass 375) (real_keys 0) (band 346) )
 	(real_guitar_tuning (0 0 0 0 0 0)) (real_bass_tuning (0 0 0 0)))
-(wanteddeadoralive2  (rank (drum 120) (guitar 315) (bass 315) (vocals 205) (keys 330) (real_guitar 428) (real_bass 156) (real_keys 378) (band 220) )
+(wanteddeadoralive  (rank (drum 120) (guitar 315) (bass 315) (vocals 205) (band 239) (real_guitar 428) (real_bass 156) )
 	(real_guitar_tuning (0 0 0 0 0 0)) (real_bass_tuning (0 0 0 0)))
 (wearethechampions2  (rank (drum 123) (guitar 145) (bass 160) (vocals 252) (keys 302) (real_guitar 260) (real_bass 262) (real_keys 414) (band 180) )
 	(real_guitar_tuning (0 0 0 0 0 0)) (real_bass_tuning (0 0 0 0)))

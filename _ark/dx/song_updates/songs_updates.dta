@@ -6202,34 +6202,6 @@ missing_song_data
    )
    (extra_authoring disc_update)
 )
-(wanteddeadoralive2
-   (rank
-      (drum 120)
-      (guitar 315)
-      (bass 315)
-      (vocals 205)
-      (keys 330)
-      (real_guitar 428)
-      (real_bass 156)
-      (real_keys 378)
-      (band 220)
-   )
-   (real_guitar_tuning
-      (0 0 0 0 0 0)
-   )
-   (real_bass_tuning
-      (0 0 0 0)
-   )
-   (game_origin rb3dlc)
-   (author
-      "Harmonix"
-   )
-   (album_name
-      "Slippery When Wet"
-   )
-   (album_track_number 5)
-   (extra_authoring disc_update)
-)
 (wearethechampions2
    (rank
       (drum 123)
@@ -7097,7 +7069,7 @@ missing_song_data
 )
 (areyougonnabemygirl
    (vocal_tonic_note 9)
-   (song_tonality 1)
+   (song_tonality 0)
    (author
       "Harmonix"
    )
@@ -7110,7 +7082,7 @@ missing_song_data
       (vocals 235)
       (real_guitar 410)
       (real_bass 270)
-      (band 300)
+      (band 276)
    )
    (real_guitar_tuning
       (0 0 0 0 0 0)
@@ -7145,9 +7117,9 @@ missing_song_data
       "Harmonix"
    )
    (name
-      "Ballroom Blitz (Cover)"
+      "Ballroom Blitz"
    )
-   (album_art 1)
+   (album_art 0)
    (song
       (vocal_parts 3)
    )
@@ -7158,7 +7130,7 @@ missing_song_data
       (guitar 320)
       (bass 320)
       (vocals 185)
-      (band 280)
+      (band 296)
       (real_guitar 408)
       (real_bass 237)
    )
@@ -7204,7 +7176,7 @@ missing_song_data
       (guitar 265)
       (bass 265)
       (vocals 150)
-      (band 210)
+      (band 230)
       (real_guitar 302)
       (real_bass 182)
    )
@@ -7251,7 +7223,7 @@ missing_song_data
       (guitar 140)
       (bass 140)
       (vocals 85)
-      (band 185)
+      (band 144)
       (real_guitar 60)
       (real_bass 40)
    )
@@ -7458,7 +7430,7 @@ missing_song_data
       (guitar 240)
       (bass 240)
       (vocals 170)
-      (band 190)
+      (band 203)
       (real_guitar 227)
       (real_bass 327)
    )
@@ -7504,7 +7476,7 @@ missing_song_data
       (guitar 370)
       (bass 370)
       (vocals 200)
-      (band 400)
+      (band 338)
       (real_guitar 268)
       (real_bass 220)
    )
@@ -7574,7 +7546,7 @@ missing_song_data
       (real_keys 234)
       (real_guitar 285)
       (real_bass 160)
-      (band 140)
+      (band 168)
    )
    (real_guitar_tuning
       (0 0 0 0 0 0)
@@ -7623,7 +7595,7 @@ missing_song_data
       (guitar 290)
       (bass 290)
       (vocals 155)
-      (band 340)
+      (band 254)
       (real_guitar 400)
       (real_bass 345)
    )
@@ -7711,7 +7683,6 @@ missing_song_data
    (author
       "Harmonix"
    )
-   (genre punk)
    (song
       (vocal_parts 3)
    )
@@ -7722,7 +7693,7 @@ missing_song_data
       (guitar 325)
       (bass 325)
       (vocals 215)
-      (band 290)
+      (band 309)
       (real_guitar 263)
       (real_bass 333)
    )
@@ -7787,7 +7758,7 @@ missing_song_data
       (vocals 220)
       (keys 170)
       (real_keys 170)
-      (band 380)
+      (band 260)
       (real_guitar 220)
       (real_bass 280)
    )
@@ -7859,7 +7830,7 @@ missing_song_data
       (real_keys 269)
       (real_guitar 370)
       (real_bass 340)
-      (band 350)
+      (band 283)
    )
    (version 30)
    (real_guitar_tuning
@@ -7929,7 +7900,7 @@ missing_song_data
       (guitar 240)
       (bass 245)
       (vocals 240)
-      (band 365)
+      (band 264)
       (keys 327)
       (real_keys 327)
       (real_guitar 222)
@@ -7977,7 +7948,7 @@ missing_song_data
       (guitar 375)
       (bass 400)
       (vocals 230)
-      (band 420)
+      (band 356)
       (real_guitar 424)
       (real_bass 234)
    )
@@ -8017,7 +7988,6 @@ missing_song_data
    (author
       "Harmonix"
    )
-   (genre alternative)
    (year_released 1989)
    (song
       (vocal_parts 3)
@@ -8050,7 +8020,7 @@ missing_song_data
       (real_keys 211)
       (real_guitar 344)
       (real_bass 304)
-      (band 265)
+      (band 225)
    )
    (real_guitar_tuning
       (0 0 0 0 0 0)
@@ -8094,7 +8064,7 @@ missing_song_data
       (guitar 390)
       (bass 390)
       (vocals 245)
-      (band 460)
+      (band 374)
       (real_guitar 475)
       (real_bass 425)
    )
@@ -8125,8 +8095,8 @@ missing_song_data
    (album_track_number 6)
 )
 (foreplaylongtime
-   (vocal_tonic_note 10)
-   (song_tonality 1)
+   (vocal_tonic_note 5)
+   (song_tonality 0)
    (author
       "Harmonix"
    )
@@ -8156,7 +8126,7 @@ missing_song_data
       (guitar 360)
       (bass 360)
       (vocals 305)
-      (band 450)
+      (band 369)
       (keys 478)
       (real_keys 479)
       (real_guitar 420)
@@ -8198,7 +8168,7 @@ missing_song_data
 )
 (gimmeshelter
    (vocal_tonic_note 1)
-   (song_tonality 0)
+   (song_tonality 1)
    (author
       "Harmonix"
    )
@@ -8212,7 +8182,7 @@ missing_song_data
       (guitar 250)
       (bass 250)
       (vocals 260)
-      (band 170)
+      (band 224)
       (real_guitar 269)
       (real_bass 369)
    )
@@ -8278,7 +8248,7 @@ missing_song_data
       (guitar 210)
       (bass 210)
       (vocals 125)
-      (band 330)
+      (band 224)
       (keys 222)
       (real_keys 222)
       (real_guitar 190)
@@ -8318,9 +8288,9 @@ missing_song_data
       "Harmonix"
    )
    (name
-      "Green Grass and High Tides (Cover)"
+      "Green Grass and High Tides"
    )
-   (album_art 1)
+   (album_art 0)
    (song
       (vocal_parts 3)
    )
@@ -8331,7 +8301,7 @@ missing_song_data
       (guitar 500)
       (bass 500)
       (vocals 255)
-      (band 430)
+      (band 399)
       (real_guitar 570)
       (real_bass 470)
    )
@@ -8376,7 +8346,7 @@ missing_song_data
       (guitar 130)
       (bass 130)
       (vocals 135)
-      (band 130)
+      (band 141)
       (real_guitar 130)
       (real_bass 130)
    )
@@ -8408,7 +8378,7 @@ missing_song_data
 )
 (highwaystar
    (vocal_tonic_note 7)
-   (song_tonality 0)
+   (song_tonality 1)
    (author
       "Harmonix"
    )
@@ -8440,7 +8410,7 @@ missing_song_data
       (guitar 385)
       (bass 385)
       (vocals 290)
-      (band 440)
+      (band 373)
       (keys 477)
       (real_keys 476)
       (real_guitar 442)
@@ -8593,7 +8563,7 @@ missing_song_data
       (guitar 90)
       (bass 90)
       (vocals 90)
-      (band 110)
+      (band 100)
       (real_guitar 155)
       (real_bass 100)
    )
@@ -8608,7 +8578,7 @@ missing_song_data
    )
    (song_id 22)
    (preview 30675 60675)
-   (song_length 260672)
+   (song_length 260673)
    (solo
       (guitar)
    )
@@ -8626,7 +8596,7 @@ missing_song_data
 )
 (ithinkimparanoid
    (vocal_tonic_note 7)
-   (song_tonality 0)
+   (song_tonality 1)
    (author
       "Harmonix"
    )
@@ -8662,7 +8632,7 @@ missing_song_data
       (real_guitar 180)
       (real_bass 125)
       (real_keys 170)
-      (band 115)
+      (band 136)
    )
    (real_guitar_tuning
       (0 0 0 0 0 0)
@@ -8705,7 +8675,7 @@ missing_song_data
       (guitar 200)
       (bass 200)
       (vocals 115)
-      (band 230)
+      (band 186)
       (real_guitar 285)
       (real_bass 245)
    )
@@ -8750,7 +8720,7 @@ missing_song_data
       (guitar 270)
       (bass 270)
       (vocals 195)
-      (band 245)
+      (band 230)
       (real_guitar 480)
       (real_bass 260)
    )
@@ -8795,7 +8765,7 @@ missing_song_data
       (guitar 100)
       (bass 100)
       (vocals 100)
-      (band 160)
+      (band 123)
       (real_guitar 180)
       (real_bass 170)
    )
@@ -8810,7 +8780,7 @@ missing_song_data
    )
    (song_id 26)
    (preview 39625 69625)
-   (song_length 201695)
+   (song_length 201696)
    (solo
       (vocal_percussion)
    )
@@ -8833,9 +8803,9 @@ missing_song_data
       "Harmonix"
    )
    (name
-      "Mississippi Queen (Cover)"
+      "Mississippi Queen"
    )
-   (album_art 1)
+   (album_art 0)
    (extra_authoring disc_update)
    (upgrade_version 1)
    (rank
@@ -8843,7 +8813,7 @@ missing_song_data
       (guitar 120)
       (bass 120)
       (vocals 265)
-      (band 120)
+      (band 168)
       (real_guitar 220)
       (real_bass 170)
    )
@@ -8884,7 +8854,7 @@ missing_song_data
       (guitar 345)
       (bass 345)
       (vocals 250)
-      (band 385)
+      (band 350)
       (real_guitar 355)
       (real_bass 255)
    )
@@ -8977,7 +8947,7 @@ missing_song_data
       (guitar 160)
       (bass 160)
       (vocals 145)
-      (band 240)
+      (band 189)
       (real_guitar 165)
       (real_bass 95)
    )
@@ -9063,9 +9033,9 @@ missing_song_data
       "Harmonix"
    )
    (name
-      "Paranoid (Cover)"
+      "Paranoid"
    )
-   (album_art 1)
+   (album_art 0)
    (extra_authoring disc_update)
    (upgrade_version 1)
    (rank
@@ -9073,7 +9043,7 @@ missing_song_data
       (guitar 310)
       (bass 310)
       (vocals 105)
-      (band 310)
+      (band 249)
       (real_guitar 240)
       (real_bass 70)
    )
@@ -9145,7 +9115,7 @@ missing_song_data
       (guitar 275)
       (bass 275)
       (vocals 225)
-      (band 360)
+      (band 243)
       (real_guitar 327)
       (real_bass 243)
    )
@@ -9177,15 +9147,15 @@ missing_song_data
    (album_track_number 2)
 )
 (runtothehills
-   (vocal_tonic_note 4)
+   (vocal_tonic_note 7)
    (song_tonality 0)
    (author
       "Harmonix"
    )
    (name
-      "Run to the Hills (Cover)"
+      "Run to the Hills"
    )
-   (album_art 1)
+   (album_art 0)
    (song
       (vocal_parts 3)
    )
@@ -9196,7 +9166,7 @@ missing_song_data
       (guitar 450)
       (bass 450)
       (vocals 300)
-      (band 600)
+      (band 423)
       (real_guitar 447)
       (real_bass 448)
    )
@@ -9224,7 +9194,7 @@ missing_song_data
 )
 (sabotage
    (vocal_tonic_note 8)
-   (song_tonality 0)
+   (song_tonality 1)
    (author
       "Harmonix"
    )
@@ -9239,7 +9209,7 @@ missing_song_data
       (guitar 180)
       (bass 180)
       (vocals 165)
-      (band 180)
+      (band 196)
       (real_guitar 165)
       (real_bass 200)
    )
@@ -9271,8 +9241,8 @@ missing_song_data
    )
 )
 (sayitaintso
-   (vocal_tonic_note 3)
-   (song_tonality 0)
+   (vocal_tonic_note 0)
+   (song_tonality 1)
    (author
       "Harmonix"
    )
@@ -9286,7 +9256,7 @@ missing_song_data
       (guitar 190)
       (bass 190)
       (vocals 95)
-      (band 100)
+      (band 144)
       (real_guitar 348)
       (real_bass 38)
    )
@@ -9371,6 +9341,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (sub_genre subgenre_classic)
    (song
       (vocal_parts 3)
    )
@@ -9381,7 +9352,7 @@ missing_song_data
       (guitar 80)
       (bass 80)
       (vocals 160)
-      (band 150)
+      (band 135)
       (real_guitar 165)
       (real_bass 65)
    )
@@ -9448,7 +9419,7 @@ missing_song_data
       (vocals 285)
       (keys 269)
       (real_keys 269)
-      (band 270)
+      (band 246)
       (real_guitar 230)
       (real_bass 180)
    )
@@ -9492,7 +9463,7 @@ missing_song_data
    (author
       "Harmonix"
    )
-   (genre industrial)
+   (genre rock)
    (song
       (vocal_parts 3)
       (tracks
@@ -9523,7 +9494,7 @@ missing_song_data
       (vocals 180)
       (keys 153)
       (real_keys 153)
-      (band 260)
+      (band 193)
       (real_guitar 170)
       (real_bass 170)
    )
@@ -9635,14 +9606,14 @@ missing_song_data
 )
 (tomsawyer
    (vocal_tonic_note 4)
-   (song_tonality 0)
+   (song_tonality 1)
    (author
       "Harmonix"
    )
    (name
-      "Tom Sawyer (Cover)"
+      "Tom Sawyer"
    )
-   (album_art 1)
+   (album_art 0)
    (extra_authoring disc_update)
    (upgrade_version 1)
    (rank
@@ -9650,7 +9621,7 @@ missing_song_data
       (guitar 355)
       (bass 355)
       (vocals 295)
-      (band 410)
+      (band 371)
       (real_guitar 403)
       (real_bass 333)
    )
@@ -9686,9 +9657,9 @@ missing_song_data
       "Harmonix"
    )
    (name
-      "Train Kept a Rollin' (Cover)"
+      "Train Kept a Rollin'"
    )
-   (album_art 1)
+   (album_art 0)
    (extra_authoring disc_update)
    (upgrade_version 1)
    (rank
@@ -9696,7 +9667,7 @@ missing_song_data
       (guitar 400)
       (bass 375)
       (vocals 270)
-      (band 295)
+      (band 355)
       (real_guitar 453)
       (real_bass 153)
    )
@@ -9740,7 +9711,7 @@ missing_song_data
       (guitar 340)
       (bass 340)
       (vocals 175)
-      (band 370)
+      (band 294)
       (real_guitar 327)
       (real_bass 247)
    )
@@ -9772,10 +9743,32 @@ missing_song_data
    (album_track_number 2)
 )
 (wanteddeadoralive
+   (vocal_tonic_note 2)
+   (song_tonality 0)
    (author
       "Harmonix"
    )
+   (song
+      (vocal_parts 2)
+   )
    (extra_authoring disc_update)
+   (rank
+      (drum 120)
+      (guitar 315)
+      (bass 315)
+      (vocals 205)
+      (keys 330)
+      (real_guitar 428)
+      (real_bass 156)
+      (real_keys 378)
+      (band 239)
+   )
+   (real_guitar_tuning
+      (0 0 0 0 0 0)
+   )
+   (real_bass_tuning
+      (0 0 0 0)
+   )
    (song_id 41)
    (preview 214238 244238)
    (song_length 302798)
@@ -9807,7 +9800,7 @@ missing_song_data
       (guitar 150)
       (bass 150)
       (vocals 190)
-      (band 145)
+      (band 158)
       (real_guitar 150)
       (real_bass 150)
    )
@@ -9875,7 +9868,7 @@ missing_song_data
       (real_keys 211)
       (real_guitar 470)
       (real_bass 302)
-      (band 320)
+      (band 338)
    )
    (real_guitar_tuning
       (0 0 0 0 0 0)
@@ -9944,7 +9937,7 @@ missing_song_data
       (real_keys 211)
       (real_guitar 280)
       (real_bass 170)
-      (band 200)
+      (band 251)
    )
    (real_guitar_tuning
       (0 0 0 0 0 0)
@@ -10009,7 +10002,7 @@ missing_song_data
       (vocals 275)
       (keys 450)
       (real_keys 450)
-      (band 500)
+      (band 369)
    )
    (version 30)
    (keys_author

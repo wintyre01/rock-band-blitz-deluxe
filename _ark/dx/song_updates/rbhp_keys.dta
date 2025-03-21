@@ -350,7 +350,7 @@
 ;      (vocals 155)
 ;      (keys 1)
 ;      (real_keys 1)
-;      (band 340))
+;      (band 254))
 ;   (version 30)
 ;   (keys_author "TheSheepQueen"))
 (detroitrockcity
@@ -372,7 +372,7 @@
       (vocals 220)
       (keys 170)
       (real_keys 170)
-      (band 380))
+      (band 260))
    (version 30)
    (keys_author "TheSheepQueen"))
 (foreplaylongtime
@@ -393,7 +393,7 @@
       (guitar 360)
       (bass 360)
       (vocals 305)
-      (band 450)
+      (band 369)
       (keys 478)
       (real_keys 479))
    (version 30)
@@ -415,7 +415,7 @@
       (guitar 385)
       (bass 385)
       (vocals 290)
-      (band 440)
+      (band 373)
       (keys 477)
       (real_keys 476))
    (keys_author "Ruggy")
@@ -439,7 +439,7 @@
       (vocals 285)
       (keys 269)
       (real_keys 269)
-      (band 270))
+      (band 246))
    (version 30)
    (keys_author "TheSheepQueen"))
 (thehandthatfeeds
@@ -462,7 +462,7 @@
       (vocals 180)
       (keys 153)
       (real_keys 153)
-      (band 260))
+      (band 193))
    (version 30)
    (keys_author "FujiSkunk"))
 (wontgetfooled
@@ -485,7 +485,7 @@
       (vocals 275)
       (keys 450)
       (real_keys 450)
-      (band 500))
+      (band 369))
    (version 30)
    (keys_author "mazegeek"))
 (bodhisattva

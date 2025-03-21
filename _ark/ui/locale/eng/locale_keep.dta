@@ -1075,14 +1075,64 @@
    "Unrated")
 (rb1
    "Rock Band")
-(rb1_dlc
+(rb1b
+   "Rock Band Bonus Setlist")
+(rb1eu
+   "Rock Band EU")
+(rb1wii
+   "Rock Band Wii")
+(rb1dlc
    "Rock Band Downloadable Content")
 (rb2
    "Rock Band 2")
+(rb2dlc
+   "Rock Band 2 Downloadable Content")
 (rb3
    "Rock Band 3")
-(rb3_dlc
+(rb3dlc
    "Rock Band 3 Downloadable Content")
+(rb4
+   "Rock Band 4")
+(rb4dlc
+   "Rock Band 4 Downloadable Content")
+(ugc1
+   "Rock Band Network 1.0")
+(rbtp_vol_1
+   "Track Pack Vol. 1")
+(rbtp_acdc
+   "AC/DC Live Track Pack")
+(rbtp_vol_2
+   "Track Pack Vol. 2")
+(rbtp_classic_rock_a
+   "Classic Rock Track Pack (Rock Band)")
+(rbtp_classic_rock
+   "Classic Rock Track Pack (Rock Band 2)")
+(rbtp_country_1
+   "Country Track Pack")
+(beatles
+   "The Beatles: Rock Band")
+(tbrbdlc
+   "The Beatles: Rock Band DLC")
+(rbtp_metal_a
+   "Metal Track Pack (Rock Band)")
+(rbtp_metal
+   "Metal Track Pack (Rock Band 2)")
+(rbtp_country_2
+   "Country Track Pack 2")
+(ugc2
+   "Rock Band Network 2.0")
+(pearljam
+   "Pearl Jam: Rock Band")
+(rbjapan
+   "Rock Band Japan")
+(rbvr
+   "Rock Band VR")
+(rb4_rivals
+   "Rock Band Rivals")
+(fnfestival
+   "Fortnite Festival")
+(praccy
+   "Practice Charts")
 (rbsoulfunk
    "R&B/Soul/Funk")
 (rbworld_link
@@ -1778,4 +1828,4 @@
 (world
    "World")
 (server_connect_welcome
-   "Welcome to Rock Band Blitz Plus!")
+   "Welcome to Rock Band Blitz Deluxe!")
