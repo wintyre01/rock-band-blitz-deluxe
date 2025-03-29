@@ -37,6 +37,7 @@ main_ps3_3.ark
 main_ps3_2.ark
 main_ps3_1.ark
 main_ps3_0.ark
+main_ps3.hdr
 patch_ps3.hdr
 patch_ps3_0.ark
 
@@ -63,3 +64,5 @@ dependencies/macOS/superfreq
 dependencies/windows/arkhelper.exe
 dependencies/windows/dtab.exe
 dependencies/windows/superfreq.exe
+
+rpcs3_directory.txt

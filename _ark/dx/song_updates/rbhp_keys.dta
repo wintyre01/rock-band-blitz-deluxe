@@ -42,28 +42,6 @@
       (band 244))
    (version 30)
    (keys_author "PikedPike"))
-(wakemeup
-   (song
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass 3)
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-   )(rank
-      (drum 126)
-      (guitar 160)
-      (bass 143)
-      (keys 153)
-      (real_keys 211)
-      (vocals 165)
-      (band 144))
-   (version 30)
-   (keys_author "TheSheepQueen"))
 (crocodilerock
    (song
       (tracks
@@ -486,29 +464,6 @@
       (keys 450)
       (real_keys 450)
       (band 369))
-   (version 30)
-   (keys_author "mazegeek"))
-(bodhisattva
-   (song
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass
-               (3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-   )(rank
-      (drum 374)
-      (guitar 474)
-      (bass 424)
-      (vocals 148)
-      (keys 402)
-      (real_keys 441)
-      (band 500))
    (version 30)
    (keys_author "mazegeek"))
 (floaton
@@ -1942,28 +1897,6 @@
       (real_keys 211))
    (version 30)
    (keys_author "FujiSkunk"))
-(21guns
-   (song
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-   )(rank
-      (drum 130)
-      (guitar 121)
-      (bass 147)
-      (vocals 121)
-      (keys 211)
-      (real_keys 211)
-      (band 126))
-   (version 30)
-   (keys_author "FujiSkunk & StackOverflow0x"))
 (abc
    (song
       (tracks
@@ -3347,29 +3280,6 @@
       (band 218))
    (version 30)
    (keys_author "FujiSkunk"))
-(allstar
-   (song
-      (tracks
-         ((drum
-               (0 1))
-            (bass
-               (2 3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-   )(rank
-      (drum 263)
-      (guitar 172)
-      (bass 130)
-      (vocals 204)
-      (keys 153)
-      (real_keys 153)
-      (band 237))
-   (version 30)
-   (keys_author "Samyaza & FujiSkunk"))
 (animal
    (song
       (tracks
@@ -4893,33 +4803,6 @@
    (vocal_tonic_note 9)
    (song_tonality 1)
    (keys_author "FujiSkunk"))
-(UGC_5001770 ; Drowning Pool - Bodies
-   
-   (song
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13))))
-      (vocal_parts 3)
-   )(rank
-      (drum 208)
-      (guitar 194)
-      (bass 220)
-      (vocals 220)
-      (keys 220)
-      (real_keys 220)
-      (band 219))
-   (version 30)
-   (vocal_tonic_note 0)
-   (song_tonality 1)
-   (keys_author "Nightmare Lyra"))
 (UGC_5002218 ; The Devil Wears Prada - Dogs Can Grow Beards All Over
    
    (song
