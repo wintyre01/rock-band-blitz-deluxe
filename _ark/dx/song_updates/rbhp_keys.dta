@@ -308,29 +308,29 @@
       (band 202))
    (version 30)
    (keys_author "TheSheepQueen"))
-; Sparse Keys Part
-;(danicalifornia
-;   (song
-;      (tracks
-;         ((drum
-;               (0 1 2 3 4 5))
-;            (bass 6)
-;            (guitar
-;               (7 8))
-;            (vocals
-;               (9 10))
-;            (keys
-;               (11 12)))))
-;   (rank
-;      (drum 280)
-;      (guitar 290)
-;      (bass 290)
-;      (vocals 155)
-;      (keys 1)
-;      (real_keys 1)
-;      (band 254))
-;   (version 30)
-;   (keys_author "TheSheepQueen"))
+; Sparse Keys Part - didn't stop HMX from giving Californication a keys part XD
+(danicalifornia
+   (song
+      (tracks
+         ((drum
+               (0 1 2 3 4 5))
+            (bass 6)
+            (guitar
+               (7 8))
+            (vocals
+               (9 10))
+            (keys
+               (11 12)))))
+   (rank
+      (drum 280)
+      (guitar 290)
+      (bass 290)
+      (vocals 155)
+      (keys 1)
+      (real_keys 1)
+      (band 254))
+   (version 30)
+   (keys_author "TheSheepQueen"))
 (detroitrockcity
    (song
       (tracks
@@ -348,8 +348,8 @@
       (guitar 220)
       (bass 220)
       (vocals 220)
-      (keys 170)
-      (real_keys 170)
+      (keys 142)
+      (real_keys 142)
       (band 260))
    (version 30)
    (keys_author "TheSheepQueen"))
