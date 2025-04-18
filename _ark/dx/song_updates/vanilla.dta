@@ -478,9 +478,10 @@
 (ballroomblitz
    (song_id 2)
    (preview 49700 79700)
-   (song_length 246323)
+   (song_length 246324)
    (solo (guitar vocal_percussion))
    (format 10)
+   (drum_bank sfx/kit03_bank.milo)
    (version 1)
    (game_origin rb1)
    (rating 1)
@@ -1556,9 +1557,10 @@
 (deadonarrival
    (song_id 9)
    (preview 11500 41500)
-   (song_length 197354)
+   (song_length 197355)
    (solo (guitar vocal_percussion))
    (format 10)
+   (sub_genre subgenre_teen)
    (version 1)
    (game_origin rb1)
    (rating 1)
@@ -7645,7 +7647,7 @@
 (vasoline
    (song_id 40)
    (preview 61400 91400)
-   (song_length 180697)
+   (song_length 180698)
    (solo (guitar))
    (format 10)
    (version 1)
