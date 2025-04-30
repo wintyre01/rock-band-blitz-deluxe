@@ -10,9 +10,10 @@
                (6 7))
             (vocals
                (10 11)) ;lol harmonix has had this incorrect since release in rock band 4 up til we found on 07/28/2023
-            (keys
-               (8 9))))
-      )
+            (keys (8 9))
+		 )
+	  )
+   )
    (rank
       (drum 300)
       (guitar 340)
@@ -40,9 +41,10 @@
                (8 9))
             (vocals
                (10 11))
-            (keys
-               (12 13))))
+            (keys (12 13))
+		 )
 	  )
+   )
    (rank
       (drum 280)
       (guitar 370)
@@ -66,7 +68,7 @@
           (bass (5))
           (guitar (6 7))
           (vocals (8 9))
-          (keys (10 11))
+          ;(keys (10 11))
          )
       )
       (crowd_channels 12 13)
@@ -76,8 +78,8 @@
       (guitar 225)
       (bass 225)
       (vocals 110)
-      (keys 187)
-      (real_keys 187)
+      ;(keys 187)
+      ;(real_keys 187)
       (real_guitar 230)
       (real_bass 137)
       (band 168))
@@ -97,16 +99,17 @@
                (7 8))
             (vocals
                (9 10))
-            (keys
-               (11 12))))
-      )
+            ;(keys (11 12))
+		 )
+	  )
+   )
    (rank
       (drum 400)
       (guitar 300)
       (bass 300)
       (vocals 130)
-      (keys 171)
-      (real_keys 211)
+      ;(keys 171)
+      ;(real_keys 211)
       (real_guitar 325)
       (real_bass 289)
       (band 283))
@@ -127,10 +130,9 @@
             (6 7))
          (vocals
             (8 9))
-         (keys
-            (10 11)))
-      )
-      
+         ;(keys (10 11))
+		 )
+	  )
    )
    (rank
       (drum 330)
@@ -138,8 +140,8 @@
       (bass 245)
       (vocals 240)
       (band 264)
-      (keys 271)
-      (real_keys 271)
+      ;(keys 271)
+      ;(real_keys 271)
       (real_guitar 182)
       (real_bass 172)
    )
@@ -159,16 +161,17 @@
                (6 7))
             (vocals
                (8 9))
-            (keys
-               (10 11))))
-      )
+            ;(keys (10 11))
+		 )
+	  )
+   )
    (rank
       (drum 200)
       (guitar 280)
       (bass 280)
       (vocals 140)
-      (keys 142)
-      (real_keys 171)
+      ;(keys 142)
+      ;(real_keys 171)
       (real_guitar 294)
       (real_bass 249)
       (band 225))
@@ -186,7 +189,8 @@
           (bass (6 7))
           (guitar (8 9))
           (vocals (10 11))
-          (keys (12 13)))
+          ;(keys (12 13))
+		 )
       )
    )
    (rank
@@ -195,8 +199,8 @@
       (bass 210)
       (vocals 125)
       (band 224)
-      (keys 178)
-      (real_keys 178)
+      ;(keys 178)
+      ;(real_keys 178)
       (real_guitar 158)
       (real_bass 172)
    )
@@ -216,18 +220,22 @@
                (6 7))
             (vocals
                (8 9))
-            (keys
-               (10 11))))
-      )
+            ;(keys (10 11))
+		 )
+	  )
+   )
    (rank
       (drum 115)
       (guitar 155)
       (bass 155)
       (vocals 120)
-      (keys 142) ; So apparently when I change anything in the update midi from the original MiloHax version, X Pro Keys goes cray cray and stops showing notes (and crashes if you switch to it from another difficulty in practice)
+      ;(keys 142)
+	  ; So apparently when I change anything in the update midi from the original MiloHax version, X Pro Keys goes cray cray and stops showing notes (and crashes if you switch to it from another difficulty in practice)
       (real_guitar 151)
       (real_bass 109)
-      (real_keys 142) ; Leaving these here, but from now on I am baking in the Keys/Pro Keys upgrades into the original midis and deleting them from the updates as they will be properly ignored in the older games. This seems to be a constant issue looking at older builds with other legacy tracks with keys upgrades. Hopefully won't need to be a permanent solution.
+      ;(real_keys 142)
+	  ; Leaving these here, but from now on I am baking in the Keys/Pro Keys upgrades into the original midis and deleting them from the updates as they will be properly ignored in the older games. This seems to be a constant issue looking at older builds with other legacy tracks with keys upgrades. Hopefully won't need to be a permanent solution.
+	  ; UPDATE April 24th 2025...ALL OLDER GAMES CRASH IF THE SONG HAS KEYS TRACKS THESE ARE GOING BACK IN TIME OUT
       (band 136))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (-2 0 0 0))
@@ -245,18 +253,19 @@
                (6 7))
             (vocals
                (8 9))
-            (keys
-               (10 11))))
+            ;(keys (10 11))
+		 )
 	  )
+   )
    (rank
       (drum 165)
       (guitar 120)
       (bass 120)
       (vocals 265)
-      (keys 312)
+      ;(keys 312)
       (real_guitar 179)
       (real_bass 144)
-      (real_keys 312)
+      ;(real_keys 312)
       (band 168))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
@@ -274,9 +283,10 @@
                (7 8))
             (vocals
                (9 10))
-            (keys
-               (11 12))))
+            (keys (11 12))
+		 )
 	  )
+   )
    (rank
       (drum 450)
       (guitar 280)
@@ -303,18 +313,19 @@
                (5 6))
             (vocals
                (7 8))
-            (keys
-               (9 10))))
-      )
+            ;(keys (9 10))
+		 )
+	  )
+   )
    (rank
       (drum 310)
       (guitar 380)
       (bass 380)
       (vocals 280)
-      (keys 211)
-      (real_keys 211)
-      (real_guitar 470)
-      (real_bass 302)
+      ;(keys 171)
+      ;(real_keys 171)
+      (real_guitar 431)
+      (real_bass 247)
       (band 338))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
@@ -332,16 +343,17 @@
                (5 6))
             (vocals
                (7 8))
-            (keys
-               (9 10))))
-      )
+            ;(keys (9 10))
+		 )
+	  )
+   )
    (rank
       (drum 335)
       (guitar 230)
       (bass 230)
       (vocals 210)
-      (keys 171)
-      (real_keys 171)
+      ;(keys 171)
+      ;(real_keys 171)
       (real_guitar 224)
       (real_bass 144)
       (band 251))

@@ -308,7 +308,8 @@
       (band 202))
    (version 30)
    (keys_author "TheSheepQueen"))
-; Sparse Keys Part - didn't stop HMX from giving Californication a keys part XD
+; Sparse Keys Part - didn't stop HMX from giving Californication a keys part XD.
+; UPDATE April 24th 2025...BACK IN TIME OUT
 (danicalifornia
    (song
       (tracks
@@ -319,15 +320,17 @@
                (7 8))
             (vocals
                (9 10))
-            (keys
-               (11 12)))))
+            ;(keys (11 12))
+		 )
+	  )
+   )
    (rank
       (drum 280)
       (guitar 290)
       (bass 290)
       (vocals 155)
-      (keys 1)
-      (real_keys 1)
+      ;(keys 1)
+      ;(real_keys 1)
       (band 254))
    (version 30)
    (keys_author "TheSheepQueen"))
@@ -341,15 +344,17 @@
                (4 5))
             (vocals
                (6 7))
-            (keys
-               (8 9))))
-   )(rank
+            ;(keys (8 9))
+		 )
+	  )
+   )
+   (rank
       (drum 380)
       (guitar 220)
       (bass 220)
       (vocals 220)
-      (keys 142)
-      (real_keys 142)
+      ;(keys 142)
+      ;(real_keys 142)
       (band 260))
    (version 30)
    (keys_author "TheSheepQueen"))
@@ -363,8 +368,9 @@
                (7 8))
             (vocals
                (9 10))
-            (keys
-               (11 12))))
+            (keys (11 12))
+		 )
+	  )
    )
    (rank
       (drum 450)
@@ -408,15 +414,17 @@
                (4 5))
             (vocals
                (6 7))
-            (keys
-               (8 9))))
-   )(rank
+            ;(keys (8 9))
+		 )
+	  )
+   )
+   (rank
       (drum 180)
       (guitar 260)
       (bass 260)
       (vocals 285)
-      (keys 211)
-      (real_keys 211)
+      ;(keys 211)
+      ;(real_keys 211)
       (band 246))
    (version 30)
    (keys_author "TheSheepQueen"))
@@ -431,15 +439,17 @@
                (8 9))
             (vocals
                (10 11))
-            (keys
-               (12 13)))))
+            ;(keys (12 13))
+		 )
+	  )
+   )
    (rank
       (drum 250)
       (guitar 170)
       (bass 170)
       (vocals 180)
-      (keys 131)
-      (real_keys 131)
+      ;(keys 131)
+      ;(real_keys 131)
       (band 193))
    (version 30)
    (keys_author "FujiSkunk"))
