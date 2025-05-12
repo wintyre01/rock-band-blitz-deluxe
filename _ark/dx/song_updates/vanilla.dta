@@ -8158,7 +8158,7 @@
 (worstcase
    (song (vocal_parts 3))
    (song_id 2130151754)
-   (song_length 236915)
+   (song_length 226195)
    (solo (vocal_percussion))
    (format 10)
    (drum_bank sfx/kit03_bank.milo)
@@ -8170,7 +8170,9 @@
    (extra_authoring disc_update)
    (album_art FALSE)
    (vocal_tonic_note 4)
-   (song_tonality 1))
+   (song_tonality 1)
+   (encoding latin1)
+   (author "Gabe Oliveira"))
 (would
    (song_length 222272)
    (solo (guitar))
