@@ -455,6 +455,32 @@
       (band 193))
    (version 30)
    (keys_author "FujiSkunk"))
+; Pulled from latest nightly as of 05/13/2025 12:31 CST
+(timewehad
+   (song
+      (tracks
+         ((drum
+               (0 1 2 3))
+            (bass
+               (4 5))
+            (guitar
+               (6 7))
+            (vocals
+               (8 9))
+            ;(keys (10 11))
+		 )
+	  )
+   )
+   (rank
+      (drum 220)
+      (guitar 120)
+      (bass 150)
+      (vocals 140)
+      ;(keys 131)
+      ;(real_keys 131)
+      (band 158))
+   (version 30)
+   (keys_author "FujiSkunk"))
 (wontgetfooled
    (song
       (tracks
