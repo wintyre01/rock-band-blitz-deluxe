@@ -1076,9 +1076,9 @@
 (rb1
    "Rock Band")
 (rb1b
-   "Rock Band Bonus Setlist")
+   "Rock Band Bonus Songs")
 (rb1eu
-   "Rock Band EU")
+   "Rock Band Europe")
 (rb1wii
    "Rock Band Wii")
 (rb1dlc
@@ -1103,20 +1103,16 @@
    "AC/DC Live Track Pack")
 (rbtp_vol_2
    "Track Pack Vol. 2")
-(rbtp_classic_rock_a
-   "Classic Rock Track Pack (Rock Band)")
 (rbtp_classic_rock
-   "Classic Rock Track Pack (Rock Band 2)")
+   "Classic Rock Track Pack")
 (rbtp_country_1
    "Country Track Pack")
 (beatles
    "The Beatles: Rock Band")
 (tbrbdlc
    "The Beatles: Rock Band DLC")
-(rbtp_metal_a
-   "Metal Track Pack (Rock Band)")
 (rbtp_metal
-   "Metal Track Pack (Rock Band 2)")
+   "Metal Track Pack")
 (rbtp_country_2
    "Country Track Pack 2")
 (ugc2

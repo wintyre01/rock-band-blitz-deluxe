@@ -150,7 +150,7 @@
 (jailbreak_live (album_name "Live at Donington"))
 (jailbreak_lizzy (year_released 1977) (year_recorded 2009) (album_name "Still Dangerous: Live at the Tower Theatre Philadelphia 1977"))
 (jamming (genre reggaeska) (year_released 1977) (album_name "Exodus") (album_track_number 6))
-(jokerandthe (name "Joker & the Thief") (genre hardrock))
+;(jokerandthe (name "Joker & the Thief") (genre hardrock))
 ;(jukeboxhero (name "Juke Box Hero (Cover)") (album_art TRUE))
 (junkiesforfame (year_released 2010) (album_name "The Sound of Madness Deluxe") (album_track_number 15))
 (justagirl (year_released 1995) (album_name "Tragic Kingdom") (album_track_number 3))
