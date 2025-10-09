@@ -2966,7 +2966,7 @@
    (album_track_number 3))
 (heroes
    (song_id 1005018)
-   (song_length 380454)
+   (song_length 381728)
    (solo (guitar))
    (format 10)
    (version 1)
@@ -4443,7 +4443,7 @@
    (game_origin rb2dlc))
 (moonagedaydream
    (song_id 1005017)
-   (song_length 285454)
+   (song_length 284948)
    (solo (guitar vocal_percussion))
    (format 10)
    (version 1)
@@ -5310,7 +5310,7 @@
 (queenbitch
    (song_id 1005016)
    (preview 84200 114200)
-   (song_length 193636)
+   (song_length 190127)
    (format 10)
    (version 1)
    (game_origin rb2dlc)
@@ -6593,7 +6593,7 @@
    (alternate_path TRUE)
    (extra_authoring disc_update)
    (album_art TRUE)
-   (album_name "The Rise and Fall of Ziggy Stardust and the Spiders From Mars")
+   (album_name "The Rise and Fall of Ziggy Stardust and the Spiders from Mars")
    (album_track_number 10))
 (sugarbaby
    (song_length 190454)
