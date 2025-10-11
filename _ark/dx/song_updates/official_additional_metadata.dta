@@ -15,6 +15,7 @@
 (worstcase (game_origin rb1b))
 
 ; Rock Band 1 DLC sorted by release date and increasing overall difficulty
+; November 20th, 2007
 (fortunateson (game_origin rb1dlc))
 (cherrybomb (game_origin rb1dlc))
 (jukeboxhero (game_origin rb1dlc))
@@ -24,8 +25,13 @@
 (andjusticeforall (game_origin rb1dlc))
 (ridethelightning (game_origin rb1dlc))
 (blackened (game_origin rb1dlc))
+; November 27th, 2007
 (heroes (game_origin rb1dlc))
 (queenbitch (game_origin rb1dlc))
+; December 4th, 2007
+(nib (game_origin rb1dlc))
+(sweetleaf (game_origin rb1dlc))
+(warpigs (game_origin rb1dlc))
 
 ; Rock Band 1 European/Wii song source
 (beetlebum (game_origin rb1eu))
@@ -991,6 +997,7 @@
 (newmoonrising (vocal_tonic_note 11) (song_tonality 1))
 (newwave (vocal_tonic_note 11) (song_tonality 1))
 (newwayhome (vocal_tonic_note 9) (song_tonality 0))
+(nib (vocal_tonic_note 4) (song_tonality 1))
 (nightmare2 (vocal_tonic_note 2) (song_tonality 0))
 (nightwatchmanlive (vocal_tonic_note 4) (song_tonality 0))
 (nineteeneightythree (vocal_tonic_note 5) (song_tonality 0))
@@ -1210,6 +1217,7 @@
 (superbowlmedley (vocal_tonic_note 11) (song_tonality 1))
 (superman (vocal_tonic_note 5) (song_tonality 0))
 (swamped (vocal_tonic_note 4) (song_tonality 1))
+(sweetleaf (vocal_tonic_note 9) (song_tonality 1))
 (sweetness (vocal_tonic_note 5) (song_tonality 0))
 (sweetnessandlight (vocal_tonic_note 3) (song_tonality 0))
 (sweettalk (vocal_tonic_note 11) (song_tonality 0))
@@ -1335,6 +1343,7 @@
 (walklikeanegyptian (vocal_tonic_note 0) (song_tonality 0))
 (warmerthanhell (vocal_tonic_note 0) (song_tonality 0))
 (warnerve (vocal_tonic_note 2))
+(warpigs (vocal_tonic_note 4) (song_tonality 1))
 (warriorsoftime (vocal_tonic_note 2) (song_tonality 0))
 (warzone (vocal_tonic_note 0) (song_tonality 0))
 (wastedagain (vocal_tonic_note 6) (song_tonality 1))
