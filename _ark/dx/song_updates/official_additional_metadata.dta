@@ -32,6 +32,9 @@
 (nib (game_origin rb1dlc))
 (sweetleaf (game_origin rb1dlc))
 (warpigs (game_origin rb1dlc))
+; December 11th, 2007
+(ifoughtthelaw (game_origin rb1dlc))
+(everfalleninlove (game_origin rb1dlc))
 
 ; Rock Band 1 European/Wii song source
 (beetlebum (game_origin rb1eu))

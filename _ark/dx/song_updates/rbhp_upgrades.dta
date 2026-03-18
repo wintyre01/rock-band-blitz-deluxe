@@ -4857,6 +4857,20 @@
    )
    (keys_author "Linos Melendi & sageamagoo")
 )
+(rockawaybeach
+   (upgrade_version 1) 
+   (rank
+      (drum 170)
+      (guitar 150)
+      (bass 150)
+      (vocals 130)
+      (band 150)
+      (real_guitar 150)
+      (real_bass 150)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+)
 (runnindownadream
    (song
       (tracks

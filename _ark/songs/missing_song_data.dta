@@ -3,7 +3,7 @@
 #merge ../dx/song_updates/unofficial_additional_metadata.dta
 #merge ../dx/song_updates/metadata_updates.dta
 #merge ../dx/song_updates/harms_and_updates.dta
-#merge ../dx/song_updates/rbhp_upgrades.dta
-#merge ../dx/song_updates/rb_plus_upgrades.dta
+;#merge ../dx/song_updates/rbhp_upgrades.dta
+;#merge ../dx/song_updates/rb_plus_upgrades.dta
 #merge ../dx/song_updates/vanilla.dta
 #merge ../dx/song_updates/loading_phrases.dta
