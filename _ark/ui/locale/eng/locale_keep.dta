@@ -1095,6 +1095,9 @@
    "Rock Band 4")
 (rb4dlc
    "Rock Band 4 Downloadable Content")
+(lost_dlc
+   "Lost Rock Band DLC")
+
 (ugc1
    "Rock Band Network 1.0")
 (rbtp_vol_1
