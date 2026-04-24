@@ -1,4 +1,6 @@
-# Rock Band Blitz Plus
+# Rock Band Blitz Plus (Legacy)
+## You should use this other repo
+https://github.com/Aloquendiar/blitz-ultimate
 # Introduction
 
 ### Rock Band Blitz Plus is a quality of life mod based on [MiloHax](https://github.com/hmxmilohax) Rock Band Blitz Deluxe Project.
