@@ -1,6 +1,8 @@
 Original project by MiloHax. These are my personal modifications to the game.
 
 # Rock Band Blitz Deluxe
+## You should use this other repo
+https://github.com/Aloquendiar/blitz-ultimate
 # Introduction
 
 ### Rock Band Blitz Deluxe is a quality of life mod based on the discontinued original by [MiloHax](https://github.com/hmxmilohax).
